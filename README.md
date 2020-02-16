@@ -6,8 +6,7 @@ Moving is a clean and minimalist theme for [Jekyll](https://jekyllrb.com/), focu
 
 Inspired by [Hugo](https://gohugo.io/) theme, [YinYang](https://github.com/joway/hugo-theme-yinyang).
 
-![moving theme screenshot (svg)](/github/banner2.svg)
-![moving theme screenshot (png)](/github/banner.png)
+![moving theme screenshot](/github/banner2.svg)
 
 
 ## Installation
