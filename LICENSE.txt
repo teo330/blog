@@ -1,11 +1,12 @@
 Any content on this site is released under Creative Commons Attribution-ShareAlike 4.0 International license, or CC BY-SA 4.0, unless stated
-[CC BY-SA 4.0 license summary](https://creativecommons.org/licenses/by-sa/4.0/) or [full legal version](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
+CC BY-SA 4.0 license summary: https://creativecommons.org/licenses/by-sa/4.0/
+full legal version: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
-Learn more on how to reuse the contents released under CC BY-SA 4.0 [here](https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart)
+Learn more on how to reuse the contents released under CC BY-SA 4.0 here: https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
-Jekyll theme: [moving](https://github.com/huangyz0918/moving)
+Jekyll theme: moving
+Theme repository: https://github.com/huangyz0918/moving
+Author website: https://huangyz.name/
 Theme license below:
 
 The MIT License (MIT)
