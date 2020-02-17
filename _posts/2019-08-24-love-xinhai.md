@@ -2,8 +2,15 @@
 layout: post
 title: "Love Letter to Xinhai"
 categories: misc
-author: Yizheng Huang
+author:
 ---
+
+I love Xinhai so much!!!
+
+**Attached please find a styling portrait of Xinhai (sketch style using gaussian filter).**
+
+<!--more-->
+
 I love Xinhai so much!!!
 
 **Attached please find a styling portrait of Xinhai (sketch style using gaussian filter).**
