@@ -1,4 +1,4 @@
-title: Teo330's blog # The title of the blog
+title: Teo's blog # The title of the blog
 author: Teo # Your name 
 email: # your email shown in the footer
 url: https://teo330.github.io # this is your site's root address.
@@ -17,11 +17,18 @@ moving:
   date_format: "%b %d" # date format of posts in home page
   back_to: "Home" # In the post page, you have a back button above the title, you can custom the text by yourself.
 
+#webmaster_verifications:
+#  google: 
+#  bing: 
+#  alexa: 
+#  yandex: 
+#  baidu: 
+
   # generate social links in about page.
   social_links:
     # twitter:
     github: teo330
-    rss: RSS Feed
+    rss: RSS
     # dribbble:
     # facebook:
     # flickr:
